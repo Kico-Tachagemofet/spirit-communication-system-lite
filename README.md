@@ -59,12 +59,7 @@ spirit-communication-system-lite/
 │   ├── jiaobei.py                        # 筊杯，供使用者自行调用
 │   ├── jiaobei_gua.py                    # 筊杯起卦
 │   ├── lenormand.py                      # 雷诺曼
-│   ├── wordcard_astarion.py
 │   ├── wordcard_hermes.py
-│   ├── wordcard_shadowheart.py
-│   ├── wordcard_karlach.py
-│   ├── wordcard_falcon.py
-│   ├── wordcard_jaheira.py
 │   └── wordcard_npc.py                   # 通用字卡模板
 └── data/
     └── yijing/                           # 64 卦本地数据
